@@ -1,0 +1,12 @@
+---
+- summary: |
+    Проверка фильтрации товаров
+  status: pass
+
+- summary: |
+    Проверка смены языка на English
+  status: pass
+
+- summary: |
+    Проверка оформления заказа
+  status: pass
