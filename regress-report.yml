@@ -1,14 +1,14 @@
 ---
 test-cases:
-  - summary: |
+- summary: |
     Проверка фильтрации товаров
   status: pass
 
-  - summary: |
+- summary: |
     Проверка смены языка на English
   status: pass
 
-  - summary: |
+- summary: |
     Проверка оформления заказа
   status: pass
 
